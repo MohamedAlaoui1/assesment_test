@@ -1,0 +1,20 @@
+{
+  "project_type": "portfolio",
+  "style": "moroccan-modern",
+  "pages": ["index.html"],
+  "color_palette": ["#D4AF37", "#C65D3B", "#1A365D", "#F5E6D3", "#0A0A0A"],
+  "fonts": ["Playfair Display", "Montserrat"],
+  "features": [
+    "responsive design",
+    "moroccan geometric patterns",
+    "lightbox gallery",
+    "music player UI",
+    "events calendar",
+    "booking form",
+    "scroll animations",
+    "counter animations",
+    "parallax hero",
+    "bilingual logo (Arabic)"
+  ],
+  "last_updated": "2025-01-10"
+}
