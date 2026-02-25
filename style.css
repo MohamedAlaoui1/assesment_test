@@ -75,6 +75,13 @@ body {
     overflow-x: hidden;
 }
 
+/* Ensure all images display properly */
+img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
 /* Moroccan Pattern Overlay */
 .pattern-overlay {
     position: fixed;
@@ -301,6 +308,7 @@ body {
     width: 100%;
     height: 100%;
     object-fit: cover;
+    object-position: center;
 }
 
 .hero-overlay {
@@ -460,6 +468,7 @@ body {
     width: 100%;
     height: 500px;
     object-fit: cover;
+    object-position: center;
     border-radius: var(--radius-md);
 }
 
@@ -569,6 +578,7 @@ body {
     width: 100%;
     height: 100%;
     object-fit: cover;
+    object-position: center;
     transition: transform var(--transition-slow);
 }
 
@@ -642,6 +652,7 @@ body {
     width: 100%;
     height: 100%;
     object-fit: cover;
+    object-position: center;
     transition: transform var(--transition-slow);
 }
 
