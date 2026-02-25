@@ -1,10 +1,10 @@
-# DJ ALAOUI Mohamed - Portfolio Website
+# DJ LOOKTOP - Portfolio Website
 
-![DJ ALAOUI Mohamed](https://images.unsplash.com/photo-1571266028243-e4733b0f0bb0?w=1200&auto=format&fit=crop&q=80)
+![DJ LOOKTOP](https://images.unsplash.com/photo-1571266028243-e4733b0f0bb0?w=1200&auto=format&fit=crop&q=80)
 
 ## 🎧 About
 
-A stunning, Moroccan-inspired portfolio website for DJ ALAOUI Mohamed, blending traditional Moroccan aesthetics with modern web design. The site features a rich color palette of gold, terracotta, and deep blues, geometric patterns inspired by zellige tilework, and smooth animations throughout.
+A stunning, Moroccan-inspired portfolio website for DJ LOOKTOP, blending traditional Moroccan aesthetics with modern web design. The site features a vibrant purple and cyan color palette, geometric patterns inspired by zellige tilework, and smooth animations throughout.
 
 ## 🌐 Live Site
 
@@ -12,14 +12,14 @@ A stunning, Moroccan-inspired portfolio website for DJ ALAOUI Mohamed, blending 
 
 ## ✨ Features
 
-- **Moroccan-Inspired Design**: Gold and terracotta color palette, geometric patterns, zellige-style frames
+- **Modern Purple & Cyan Design**: Vibrant gradient accents with deep purple backgrounds
 - **Responsive Layout**: Mobile-first design that looks great on all devices
 - **Interactive Gallery**: Click-to-expand lightbox for photos
 - **Music Section**: Album cards with play button interactions
 - **Events Calendar**: Upcoming shows with ticket links
 - **Booking Form**: Contact form with validation
 - **Smooth Animations**: Scroll-triggered reveals, counter animations, parallax effects
-- **Arabic Typography**: Bilingual logo with Arabic script
+- **Moroccan Patterns**: Geometric overlay patterns inspired by traditional tilework
 
 ## 📁 File Structure
 
@@ -36,11 +36,11 @@ A stunning, Moroccan-inspired portfolio website for DJ ALAOUI Mohamed, blending 
 ### Colors
 | Color | Hex | Usage |
 |-------|-----|-------|
-| Gold | `#D4AF37` | Primary accent, CTAs |
-| Terracotta | `#C65D3B` | Secondary accent |
-| Deep Blue | `#1A365D` | Dark backgrounds |
-| Sand | `#F5E6D3` | Light accents |
-| Black | `#0A0A0A` | Main background |
+| Primary Purple | `#8B5CF6` | Primary accent, CTAs |
+| Cyan | `#06B6D4` | Secondary accent |
+| Deep Purple | `#5B21B6` | Gradient backgrounds |
+| Pink | `#EC4899` | Highlight accents |
+| Black | `#0F0A1A` | Main background |
 
 ### Typography
 - **Display**: Playfair Display (headings)
@@ -76,15 +76,17 @@ To customize colors, edit the CSS custom properties in `:root`:
 
 ```css
 :root {
-    --color-gold: #D4AF37;
-    --color-terracotta: #C65D3B;
+    --color-primary: #8B5CF6;
+    --color-accent: #06B6D4;
+    --color-purple-deep: #5B21B6;
+    --color-pink: #EC4899;
     /* ... */
 }
 ```
 
 ## 📄 License
 
-© 2024 DJ ALAOUI Mohamed. All rights reserved.
+© 2024 DJ LOOKTOP. All rights reserved.
 
 ---
 
