@@ -1,12 +1,12 @@
 {
   "project_type": "portfolio",
-  "style": "moroccan-modern",
+  "style": "modern-purple-cyan",
   "pages": ["index.html"],
-  "color_palette": ["#D4AF37", "#C65D3B", "#1A365D", "#F5E6D3", "#0A0A0A"],
+  "color_palette": ["#8B5CF6", "#06B6D4", "#5B21B6", "#EC4899", "#0F0A1A"],
   "fonts": ["Playfair Display", "Montserrat"],
   "features": [
     "responsive design",
-    "moroccan geometric patterns",
+    "geometric patterns",
     "lightbox gallery",
     "music player UI",
     "events calendar",
